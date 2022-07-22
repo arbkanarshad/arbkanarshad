@@ -6,8 +6,7 @@ I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on exper
 
 - 🌐 Visit my Portfolio [Website](https://arbkanarshad.github.io/portfolio) for complete background and contact.
 - 📖 I’m currently learning everything 🤣
-- 📌 2022 Goals: Learn more about web3
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 📌 2022 Goals: Learn more about Cloud Computing & Web3
 
 
 ### Let's Connect 📫 
