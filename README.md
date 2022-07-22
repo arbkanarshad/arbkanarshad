@@ -2,9 +2,9 @@
 
 # 👋 I'm Arbkan Arshad 🧑🏻‍💻
 
-I am a Software Engineer. I'm a dedicated & efficient **full-stack developer** with hands-on experience using **ASP.NET Core** for Backend Development & **Angular** for Frontend Development. I've used C#, SQL, APIs, HTML, CSS, TypeScript, and Angular in my day-to-day tasks & I constantly try to explore new technologies. I enjoy developing engaging solutions that bring positive values to people's lives.
+I am a Software Engineer. I'm a dedicated & efficient **full-stack developer** with hands-on experience using **ASP.NET Core** Framework for Backend Development & **Angular** for Frontend Development. I've used C#, SQL, APIs, HTML, CSS, TypeScript, and Angular in my day-to-day tasks & I constantly try to explore new technologies. I enjoy developing engaging solutions that bring positive values to people's lives.
 
-- 🌐 Visit my Porfolio [Website](https://arbkanarshad.github.io) for complete background and contact.
+- 🌐 Visit my Portfolio [Website](https://arbkanarshad.github.io/portfolio) for complete background and contact.
 - 📖 I’m currently learning everything 🤣
 - 📌 2022 Goals: Learn more about web3
 - 👯 I’m looking to collaborate on open source/commercial projects
