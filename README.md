@@ -4,7 +4,7 @@
 
 I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on experience us-ing **ASP.NET Core** framework for backend development and **Angular** for frontend development. I’ve used C#, SQL, APIs, HTML, CSS, Bootstrap, TypeScript, and Angular in my day-to-day work & I constantly try to explore the latest technologies. I enjoy developing solutions that enhance people's lives.
 
-- 🌐 Visit my Portfolio [Website](https://arbkanarshad.github.io/portfolio) for complete background and contact.
+- 🌐 Visit my Portfolio [Website](https://arbkan.dev) for complete background and contact.
 - 📖 I’m currently learning everything 🤣
 - 📌 2022 Goals: Learn more about Cloud Computing & Web3
 
@@ -45,6 +45,6 @@ I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on exper
 <br />
 <br />
 
-[website]: https://arbkanarshad.github.io
+[website]: https://arbkan.dev
 [twitter]: https://twitter.com/ArbkanArshad
 [linkedin]: https://linkedin.com/in/ArbkanArshad
