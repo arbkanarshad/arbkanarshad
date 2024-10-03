@@ -6,7 +6,7 @@ I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on exper
 
 - 🌐 Visit my Portfolio [Website](https://arbkan.dev) for complete background and contact.
 - 📖 I’m currently learning everything 🤣
-- 📌 2022 Goals: Learn more about Cloud Computing (Azure) & AI
+- 📌 2024 Goals: Learn more about Cloud Computing (Azure) & AI
 
 
 ### Let's Connect 📫 
