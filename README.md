@@ -1,23 +1,24 @@
-![image](https://user-images.githubusercontent.com/93033586/177230027-351dd3b6-1827-464a-9e46-0a29b00e3d61.png)
+<img width="1930" height="482" alt="image" src="https://github.com/user-attachments/assets/c4c272b9-c2be-45cf-bfed-a8cddc443d9a" />
 
 # 👋 I'm Arbkan Arshad 🧑🏻‍💻
 
-I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on experience us-ing **ASP.NET Core** framework for backend development and **Angular** for frontend development. I have successfully delivered **high-impact projects** for both **private companies and government entities.** I enjoy working with technologies like C#, SQL, RESTful APIs, HTML, CSS, Bootstrap, JavaScript, TypeScript and Angular to develop robust, scalable, impactful and future ready applications.
+I'm a **Full Stack Software Engineer** specializing in **.NET** and **Angular**, building
+secure, enterprise-grade systems for **government and private-sector clients** across the
+**UAE and KSA**.
 
-- 🌐 Visit my Portfolio [Website](https://arbkan.dev) for complete background and contact.
+By day I build **Visitor Management (VMS)**, **Permit-to-Work (ePTW)**, and **physical
+access control** platforms — where software meets hardware: **HID Aero controllers**
+(Wiegand/OSDP, mobile credentials), **biometric and facial recognition devices**,
+self-service kiosks, and identity providers like **UAE Pass, Nafath, Azure AD, and
+Ping Identity SSO**.
+
+- 🌐 Visit my [Portfolio](https://arbkan.dev) for complete background and contact
+- 🔭 Currently building: an access control configuration platform for HID Aero devices
 - 📖 I’m currently learning everything 🤣
-- 📌 2024 Goals: Learn more about Cloud Computing (Azure) & AI
 
-
-### Let's Connect 📫 
-
-<a href="mailto:arbkan01@gmail.com" >
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ArbkanArshad/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+### Let's Connect 📫
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbkan01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbkanarshad/)
 
 ### Languages and Tools ⚙️ 
 
@@ -28,7 +29,6 @@ I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on exper
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:10px;" />
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -48,5 +48,4 @@ I’m a **Software Engineer** and a **Full-Stack Developer** with hands-on exper
 <br />
 
 [website]: https://arbkan.dev
-[twitter]: https://twitter.com/ArbkanArshad
 [linkedin]: https://linkedin.com/in/ArbkanArshad
